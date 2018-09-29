@@ -151,9 +151,9 @@ $('document').ready(function(){
 		$('#b6').attr('id','b66')
 		$('#b7').attr('id','b77')
 		$('#b11').animate({top:240, left: vw-150},1000);
-		$('#b22').animate({top:240, left: vw-50},1000);
-		$('#b33').animate({top:240, left: vw+150},1000);
-		$('#b44').animate({top:240, left: vw+250},1000);
+		$('#b22').animate({top:240, left: vw+80},1000);
+		$('#b33').animate({top:240, left: vw+120},1000);
+		$('#b44').animate({top:240, left: vw+170},1000);
 		$('#b55').animate({top:240, left: vw+200},500);
 		$('#b66').animate({top:240, left: vw+150},500);
 		$('#b77').animate({top:240, left: vw+250},500);
